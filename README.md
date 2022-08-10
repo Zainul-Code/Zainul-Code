@@ -73,16 +73,16 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Zainul_Code&theme=gotham)](https://github.com/Zainul_Code/github-readme-stats)
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Zainul-Code&theme=gotham)](https://github.com/Zainul-Code/github-readme-stats)
 
 
 
 
-Open Source Contributor from <b>Pakistan<b> 💚 
+Open Source Contributor from <b>Indonesian<b> 💚 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Zainul_Code.Zainul_Code)
+![](https://visitor-badge.glitch.me/badge?page_id=Zainul-Code.Zainul-Code)
 
-[Linkedin}: https://www.linkedin.com/in/zainul-muhajir-310a87222/
+[Linkedin]: https://www.linkedin.com/in/zainul-muhajir-310a87222/
 [Viasty]: https://github.com/Zainul-Code/Viasty-App-PKM-2022-
-[profile]: https://zainul-code.github.io/Protfolio-UsingFlutter-Web/
-[dribbble]: https://dribbble.com/zainulmuhajir
+[Profile]: https://zainul-code.github.io/Protfolio-UsingFlutter-Web/
+[Dribbble]: https://dribbble.com/zainulmuhajir
