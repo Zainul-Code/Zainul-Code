@@ -37,7 +37,7 @@
 
 #### Talking about my personal stuff:
 
-- 🎓️ Mahasiswa Institut Teknologi Telkom Purwokerto
+- 🎓️ Student at Institut Teknologi Telkom Purwokerto
 - 👉 Graduate from Computer & Network Engineering
 - 💻 The tech I'm interested Flutter/UI,UX/Java_Mobile.
 - 📱 First Live app [Viasty]
@@ -61,6 +61,7 @@
 <p align="center">🛠 Tools & Technology</p>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-02569B?style=for-the-badge&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
